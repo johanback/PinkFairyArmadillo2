@@ -3,19 +3,19 @@ img{
 }
 
 body{
-    font-family: Arial;
+    font-family: Helvetica;
     line-height: 25px;
-    background-color: #e6abcf;
+    background-color: #A85751;
     margin: 0;
 }
 
 .column{
     width: 600px;
     margin: 0px auto;
-    background-color: white;
+    background-color: rgb(219, 193, 193);
     padding: 40px 40px;
-    border-left: solid 25px lightpink;
-    border-right: solid 25px lightpink;
+    border-left: solid 15px #840012;
+    border-right: solid 15px #840012;
 }
 
 h1 {
@@ -29,7 +29,7 @@ h1, h2 {
 }
 
 p {
-    background-color: seagreen;
+    background-color: rgb(219, 21, 70);
     padding: 10px;
     border-radius:20px;
 }
