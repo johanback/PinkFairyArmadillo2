@@ -18,6 +18,11 @@ body{
     border-right: solid 15px #840012;
 }
 
+figcaption{
+    font-size: 14px;
+    color: #4d4d4d;
+}
+
 img {
     border-radius:20px;
 }
@@ -41,6 +46,6 @@ h1, h2 {
 p {
     background-color: rgb(219, 21, 70);
     padding: 10px;
-    border-radius:20px;
+    border-radius:15px;
 }
 
