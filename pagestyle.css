@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+}
+
+body{
+    font-family: Arial;
+    line-height: 25px;
+    background-color: #e6abcf;
+    margin: 0;
+}
+
+.column{
+    width: 600px;
+    margin: 0px auto;
+    background-color: white;
+    padding: 40px 40px;
+    border-left: solid 25px lightpink;
+    border-right: solid 25px lightpink;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Georgia;
+    padding: 15px 0;
+}
+h1, h2 {
+    text-shadow: 3px 3px 6px #99bd00;
+    color: olivedrab;
+}
+
+p {
+    background-color: seagreen;
+    padding: 10px;
+    border-radius:20px;
+}
