@@ -18,6 +18,16 @@ body{
     border-right: solid 15px #840012;
 }
 
+img {
+    border-radius:20px;
+}
+
+.imagecenter{
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+
 h1 {
     font-size: 45px;
     font-family: Helvetica;
@@ -33,3 +43,4 @@ p {
     padding: 10px;
     border-radius:20px;
 }
+
