@@ -53,6 +53,12 @@ h3{
     color: #426A5A;
 }
 
+h4 {
+    font-size: 15px;
+    font-family: Franklin Gothic Medium;
+    color: #426A5A;
+}
+
 h1, h2 {
     text-shadow: 3px 3px 6px #7FB685;
     color: #426A5A;
@@ -64,9 +70,40 @@ p {
     border-radius:15px;
 }
 
-li {
+li.style-fast-facts {
     background-color: #7FB685;
     padding: 10px;
     border-radius:20px;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Franklin Gothic Medium;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
