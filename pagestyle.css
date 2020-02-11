@@ -18,15 +18,31 @@ body{
     border-right: solid 15px #7FB685;
 }
 
+img {
+    border-radius:20px;
+}
+
+.imagecenter{
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+
 h1 {
     font-size: 45px;
     font-family: Franklin Gothic Medium;
-    padding: 15px 0;
+    padding: 5px 0;
 }
 
 h2 {
     font-size: 30px;
     font-family: Franklin Gothic Medium;
+}
+
+h3{
+    font-size: 20px;
+    font-family: Franklin Gothic Medium;
+    color: #426A5A;
 }
 
 h1, h2 {
@@ -39,3 +55,10 @@ p {
     padding: 10px;
     border-radius:20px;
 }
+
+li {
+    background-color: #7FB685;
+    padding: 10px;
+    border-radius:20px;
+}
+
